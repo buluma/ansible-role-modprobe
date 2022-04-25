@@ -1,5 +1,9 @@
 # Changelog
 
+## [v0.1.1](https://github.com/buluma/ansible-role-modprobe/tree/v0.1.1) (2022-04-18)
+
+[Full Changelog](https://github.com/buluma/ansible-role-modprobe/compare/v0.1.0...v0.1.1)
+
 ## [v0.1.0](https://github.com/buluma/ansible-role-modprobe/tree/v0.1.0) (2022-04-18)
 
 [Full Changelog](https://github.com/buluma/ansible-role-modprobe/compare/396c04cbf1d66e140083104c219c141f8971ffa9...v0.1.0)
