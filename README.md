@@ -2,9 +2,9 @@
 
 Load modules.
 
-|GitHub|GitLab|Quality|Downloads|Version|Issues|Pull Requests|
-|------|------|-------|---------|-------|------|-------------|
-|[![github](https://github.com/buluma/ansible-role-modprobe/workflows/Ansible%20Molecule/badge.svg)](https://github.com/buluma/ansible-role-modprobe/actions)|[![gitlab](https://gitlab.com/shadowwalker/ansible-role-modprobe/badges/master/pipeline.svg)](https://gitlab.com/shadowwalker/ansible-role-modprobe)|[![quality](https://img.shields.io/ansible/quality/58836)](https://galaxy.ansible.com/buluma/modprobe)|[![downloads](https://img.shields.io/ansible/role/d/58836)](https://galaxy.ansible.com/buluma/modprobe)|[![Version](https://img.shields.io/github/release/buluma/ansible-role-modprobe.svg)](https://github.com/buluma/ansible-role-modprobe/releases/)|[![Issues](https://img.shields.io/github/issues/buluma/ansible-role-modprobe.svg)](https://github.com/buluma/ansible-role-modprobe/issues/)|[![PullRequests](https://img.shields.io/github/issues-pr-closed-raw/buluma/ansible-role-modprobe.svg)](https://github.com/buluma/ansible-role-modprobe/pulls/)|
+|GitHub|GitLab|Downloads|Version|Issues|Pull Requests|
+|------|------|-------|-------|------|-------------|
+|[![github](https://github.com/buluma/ansible-role-modprobe/workflows/Ansible%20Molecule/badge.svg)](https://github.com/buluma/ansible-role-modprobe/actions)|[![gitlab](https://gitlab.com/shadowwalker/ansible-role-modprobe/badges/master/pipeline.svg)](https://gitlab.com/shadowwalker/ansible-role-modprobe)|[![downloads](https://img.shields.io/ansible/role/d/4767)](https://galaxy.ansible.com/buluma/modprobe)|[![Version](https://img.shields.io/github/release/buluma/ansible-role-modprobe.svg)](https://github.com/buluma/ansible-role-modprobe/releases/)|[![Issues](https://img.shields.io/github/issues/buluma/ansible-role-modprobe.svg)](https://github.com/buluma/ansible-role-modprobe/issues/)|[![PullRequests](https://img.shields.io/github/issues-pr-closed-raw/buluma/ansible-role-modprobe.svg)](https://github.com/buluma/ansible-role-modprobe/pulls/)|
 
 ## [Example Playbook](#example-playbook)
 
