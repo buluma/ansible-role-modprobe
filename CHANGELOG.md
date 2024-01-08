@@ -1,8 +1,8 @@
 # Changelog
 
-## [Unreleased](https://github.com/buluma/ansible-role-modprobe/tree/HEAD)
+## [v0.2.0](https://github.com/buluma/ansible-role-modprobe/tree/v0.2.0) (2024-01-02)
 
-[Full Changelog](https://github.com/buluma/ansible-role-modprobe/compare/v0.1.3...HEAD)
+[Full Changelog](https://github.com/buluma/ansible-role-modprobe/compare/v0.1.3...v0.2.0)
 
 **Closed issues:**
 
