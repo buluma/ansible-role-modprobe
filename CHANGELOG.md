@@ -1,5 +1,15 @@
 # Changelog
 
+## [Unreleased](https://github.com/buluma/ansible-role-modprobe/tree/HEAD)
+
+[Full Changelog](https://github.com/buluma/ansible-role-modprobe/compare/v0.2.0...HEAD)
+
+**Merged pull requests:**
+
+- Bump buluma/molecule-action from 6.0.0 to 6.0.1 [\#16](https://github.com/buluma/ansible-role-modprobe/pull/16) ([dependabot[bot]](https://github.com/apps/dependabot))
+- Bump buluma/gh-action-auto-merge-dependabot-updates from 1.0.5 to 1.0.8 [\#15](https://github.com/buluma/ansible-role-modprobe/pull/15) ([dependabot[bot]](https://github.com/apps/dependabot))
+- Bump actions/checkout from 3 to 4 [\#14](https://github.com/buluma/ansible-role-modprobe/pull/14) ([dependabot[bot]](https://github.com/apps/dependabot))
+
 ## [v0.2.0](https://github.com/buluma/ansible-role-modprobe/tree/v0.2.0) (2024-01-02)
 
 [Full Changelog](https://github.com/buluma/ansible-role-modprobe/compare/v0.1.3...v0.2.0)
