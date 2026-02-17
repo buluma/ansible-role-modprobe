@@ -4,6 +4,11 @@
 
 [Full Changelog](https://github.com/buluma/ansible-role-modprobe/compare/v24.3.31...HEAD)
 
+**Closed issues:**
+
+- Update action [\#11](https://github.com/buluma/ansible-role-modprobe/issues/11)
+- rebuild action [\#10](https://github.com/buluma/ansible-role-modprobe/issues/10)
+
 **Merged pull requests:**
 
 - Bump docker/login-action from 3.2.0 to 3.3.0 [\#25](https://github.com/buluma/ansible-role-modprobe/pull/25) ([dependabot[bot]](https://github.com/apps/dependabot))
