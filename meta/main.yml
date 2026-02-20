@@ -5,32 +5,32 @@ galaxy_info:
   description: Load modules.
   license: Apache-2.0
   company: none
-  min_ansible_version: '2.12'
+  min_ansible_version: "2.12"
   platforms:
     - name: Alpine
       versions:
         - all
-  - name: Amazon
-    versions:
-    - all
-  - name: EL
-    versions:
-    - all
-  - name: Debian
-    versions:
-    - all
-  - name: Fedora
-    versions:
-    - all
-  - name: opensuse
-    versions:
-    - all
-  - name: Ubuntu
-    versions:
-    - all
-  - name: Kali
-    versions:
-    - all
+    - name: Amazon
+      versions:
+        - all
+    - name: EL
+      versions:
+        - all
+    - name: Debian
+      versions:
+        - all
+    - name: Fedora
+      versions:
+        - all
+    - name: opensuse
+      versions:
+        - all
+    - name: Ubuntu
+      versions:
+        - all
+    - name: Kali
+      versions:
+        - all
   galaxy_tags:
     - modprobe
 dependencies: []
