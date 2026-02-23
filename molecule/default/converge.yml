@@ -1,8 +1,8 @@
 ---
-- name: Converge
-  hosts: all
-  become: yes
-  gather_facts: yes
+  - name: Converge
+    hosts: all
+    become: yes
+    gather_facts: yes
 
-  roles:
-    - role: buluma.modprobe
+    roles:
+      - role: buluma.modprobe
