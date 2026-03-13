@@ -11,6 +11,7 @@
 
 **Merged pull requests:**
 
+- Bump docker/setup-buildx-action from 3 to 4 [\#28](https://github.com/buluma/ansible-role-modprobe/pull/28) ([dependabot[bot]](https://github.com/apps/dependabot))
 - Bump docker/login-action from 3.2.0 to 3.3.0 [\#25](https://github.com/buluma/ansible-role-modprobe/pull/25) ([dependabot[bot]](https://github.com/apps/dependabot))
 
 ## [v24.3.31](https://github.com/buluma/ansible-role-modprobe/tree/v24.3.31) (2024-03-29)
