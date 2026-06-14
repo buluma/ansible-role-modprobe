@@ -1,8 +1,8 @@
 # Changelog
 
-## [Unreleased](https://github.com/buluma/ansible-role-modprobe/tree/HEAD)
+## [v26.6.0](https://github.com/buluma/ansible-role-modprobe/tree/v26.6.0) (2026-06-14)
 
-[Full Changelog](https://github.com/buluma/ansible-role-modprobe/compare/v24.3.31...HEAD)
+[Full Changelog](https://github.com/buluma/ansible-role-modprobe/compare/v24.3.31...v26.6.0)
 
 **Closed issues:**
 
